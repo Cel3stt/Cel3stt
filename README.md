@@ -99,8 +99,6 @@ const celeste = {
 ### 💼 Open for opportunities
 **Frontend Developer** • **UI/UX Designer** • **Design System Architect**
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
 ---
 
 <sub>⭐ From [cel3stt](https://github.com/cel3stt) with 💜</sub>
