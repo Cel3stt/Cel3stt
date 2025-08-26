@@ -1,10 +1,5 @@
 # 🎨 Hi there, I'm C3lestt
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer;UI%2FUX+Designer;Creative+Problem+Solver;Digital+Experience+Architect)](https://git.io/typing-svg)
-  
-</div>
 
 ---
 
@@ -41,9 +36,7 @@ const celeste = {
 <p> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot" /> </p> </div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Let's%20Create%20Something%20Amazing!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%" /> </div> <div align="center"> <p>I'm always excited to collaborate on innovative projects and discuss design!</p> <p> <a href="https://www.linkedin.com/in/jerez-marianne-celest/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mariannecelest@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </p>
 💼 Open for opportunities
 
-Frontend Developer • UI/UX Designer • Design System Architect
+Frontend Developer • UI/UX Designer 
 
-<sub>⭐ From cel3stt
- with 💜</sub>
 
 </div> ```
