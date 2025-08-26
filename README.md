@@ -4,11 +4,6 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer;UI%2FUX+Designer;Creative+Problem+Solver;Digital+Experience+Architect)](https://git.io/typing-svg)
   
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=cel3stt&style=for-the-badge&color=6366f1" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/cel3stt?style=for-the-badge&color=6366f1" alt="Followers" />
-  </p>
-
 </div>
 
 ---
