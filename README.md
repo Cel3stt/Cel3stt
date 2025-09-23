@@ -13,7 +13,7 @@ const celeste = {
     location: "🌍 Building digital experiences worldwide",
     passion: "Creating beautiful, functional interfaces",
     superpower: "Turning ideas into pixel-perfect reality",
-    currentlyLearning: ["Godot", "Flutter"]
+    currentlyLearning: ["Godot", "React-Native"]
 };
 
 ```
