@@ -1,4 +1,4 @@
-# 🎨 Hi there, I'm C3lestt
+# Hi there, I'm C3lestt
 
 
 ---
